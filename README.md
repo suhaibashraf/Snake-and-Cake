@@ -1,5 +1,2 @@
-#Snake and Cake
-
-
-
-This game is like the classic Nokia game "Snakes Xenzia" built in C++ and OpenGL. This is the subject project of module "Computer Graphics" during my bachelors.
+# Snake-and-Cake
+An advanced form of Nim game with the heaps of sticks, built in python and powered with AI. 
