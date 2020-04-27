@@ -10,4 +10,4 @@ Link: suhaibashraf.github.io/Portfolio/SnakeAndCake
 ### Features
 
 * 3 levels (Easy, Medium, Hard)
-![](https://github.com/suhaibashraf/Snake-and-Cake/blob/master/sc2.jpg?v=4&s=200)
+![](https://github.com/suhaibashraf/Snake-and-Cake/blob/master/sc2.jpg?v=4&s=50)
