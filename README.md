@@ -5,7 +5,7 @@ Inspired by Nokia game "Snakes Xenzia".
 C++ and OpenGL. 
 
 ### More details on Portfolio
-Link: suhaibashraf.github.io/Portfolio/SnakeAndCake
+[Link](https://suhaibashraf.github.io/Portfolio/Snake-and-cake.html)
 
 ### Images
 
